@@ -1,0 +1,6 @@
+framework module TommyFramework {
+  umbrella header "TommyFramework.h"
+
+  export *
+  module * { export * }
+}
